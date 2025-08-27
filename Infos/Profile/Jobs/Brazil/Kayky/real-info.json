@@ -1,0 +1,54 @@
+{
+	"Full name": "Kayky de Souza Aguiar",
+	"Name": "Kayky Aguiar",
+	"DOB": "2002/06/01",
+	"DOB of FAKE": "1997/06/01",
+	"Address": "Rua Recife, 141 APT: 510",
+	"City": "Serra     State: ES",
+	"Zip": "29163064",
+	"phone": "+5527988231094",
+	"gmail": {
+		"address": "somostodoskayky@gmail.com",
+		"Password": "kaykay1337."
+	},
+	"paypal": {
+		"address": "kaykyaguiarofc@hotmail.com"
+	},
+	"anydesk": {
+		"address": "603130413",
+		"Password": "Locknload"
+	},
+	"Upwork": {
+		"address": "somostodoskayky@gmail.com",
+		"Password": "Avr133579.",
+		"Security Question": {
+			"Question": "What is your favourite soports team?",
+			"Answer": "Barcelona"
+		}
+	},
+	"Linkedin": {
+		"link": "https://www.linkedin.com/in/kayky-aguiar/",
+		"address": "somostodoskayky@gmail.com",
+		"Password": "Avr133579."
+	},
+	"Payoneer": {
+		"address": "kaykyaguiarofc@hotmail.com",
+		"Password": "Avr133579",
+		"Card Pin": "0601"
+	},
+	"ID card Info": {
+		"Number": "4256046",
+		"Address": "Rua Mariano Souza Ramos / Apt 510, bloco 10 / Serra, Espírito Santo 29161005 / Brazil",
+		"Name": "Kayky Aguiar",
+		"Mother’s full name": "Ana Cristina de Souza",
+		"Father’s full name": "Marcelo Henrique Aguiar",
+		"Birthday": "2002/06/01",
+		"CPF": "201.207.067-17"
+	},
+	"Parents": {
+		"Mother’s full name": "Ana Cristina de Souza",
+		"Father’s full name": "Marcelo Henrique Aguiar"
+	},
+	"Portfolio": "https://kaykyaguiar.vercel.app/",
+	"CPF": "201.207.067-17"
+}

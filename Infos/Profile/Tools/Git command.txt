@@ -1,0 +1,31 @@
+1 step: 
+git clone project in github.
+
+2 step: 
+git filter-branch -f --env-filter "GIT_AUTHOR_NAME='sonofgreatwall' GIT_AUTHOR_EMAIL='sonofgreatwall@gmail.com' GIT_COMMITTER_NAME='sonofgreatwall' GIT_COMMITTER_EMAIL='sonofgreatwall@gmail.com@gmail.com'" HEAD
+
+3 step :
+git remote set-url origin https://github.com/sonofgreatwall/python-telegram-bot.git
+4 step:
+git push
+5 step:
+check in github.
+
+
+
+git remote set-url origin https://github.com/sonofgreatwall/react-mui-frontend.git
+
+
+
+
+kayky token: 
+
+
+
+
+
+git filter-branch -f --env-filter "GIT_AUTHOR_NAME='somostodoskayky' GIT_AUTHOR_EMAIL='somostodoskayky@gmail.com' GIT_COMMITTER_NAME='somostodoskayky' GIT_COMMITTER_EMAIL='somostodoskayky@gmail.com'" HEAD
+
+
+
+git remote set-url origin https://@github.com/somostodoskayky/portfolio-vercel.git

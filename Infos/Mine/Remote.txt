@@ -1,0 +1,13 @@
+1041914860
+Rr20010813
+
+
+
+Anydesk error:
+Press Windows + R → type: services.msc
+
+Find:
+"AnyDesk Service"
+"AnyDesk Network Helper" (if it exists)
+
+Right-click each → click Restart

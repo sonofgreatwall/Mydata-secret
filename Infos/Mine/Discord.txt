@@ -1,0 +1,29 @@
+protectedtext.com/scar710813
+pass: 866433030517656
+Rodolfo Peinado Guerrero
+
+
+Net-err fix
+
+Run command prompt as administrator
+run below command.
+netsh interface ipv4 set subinterface "Ethernet" mtu=1350 store=persistent
+
+
+// skype security error
+install ~ca.der
+
+// telegram proxy, login button isn't shown
+set checked ip in smart proxy
+
+
+https://www.linkedin.com/in/rodolfo-alexander-silva-pantoja
+
+Whatsapp: +57 3152472979
+
+telegram: +57 3053725583
+
+discord: theofoman
+
+phone number : +57 3053725583
+

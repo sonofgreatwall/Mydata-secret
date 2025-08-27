@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in a Frontend Engineer position at your company. With over 8 years of experience building high-performance, scalable, and visually engaging web applications, I bring a strong background in React, Vue, Angular, and a range of modern JavaScript frameworks. My focus has always been on creating seamless user experiences and clean, maintainable code that delivers business value.
+
+Most recently at Avantsoft, I led the development of a React-based web platform that integrated complex data from multiple services using FastAPI, improving overall performance by 450%. Prior to that, while working at NGX Interactive and Loblaw Digital in Canada, I built healthcare and retail platforms using React, TypeScript, and Tailwind CSS, consistently delivering responsive UIs and scalable architecture. I’ve also contributed significantly to automation and testing using Playwright, Jest, and Cypress to ensure product stability.
+
+My career has been defined by a balance of technical expertise and product-focused thinking—partnering with designers, product managers, and back-end teams to ensure we’re always building the right thing, the right way. I’m passionate about working on impactful projects and continuously improving my craft, with an eye toward performance, accessibility, and innovation.
+
+I would be excited to bring my experience and passion to your team. Thank you for considering my application. I look forward to the opportunity to speak further.
+
+Warm regards,
+Kayky Aguiar

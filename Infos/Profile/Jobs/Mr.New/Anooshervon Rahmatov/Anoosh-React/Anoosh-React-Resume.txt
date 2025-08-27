@@ -1,0 +1,153 @@
+Anooshervon Rahmatov
+Senior Front End Engineer | React Specialist
+
+North York
++1 778 300 8731
+
+Senior Front End Engineer | React Specialist with 7 years of experience building dynamic, scalable web applications using React, Next.js, Redux, React Hooks, Context API, and TypeScript. Skilled in component-based architecture, state management, performance optimization, and server-side rendering. Proven experience delivering robust, accessible UIs for fintech, healthcare, and game board platforms. Experienced with GraphQL, Webpack, Babel, and responsive design. Strong advocate for agile methodologies, CI/CD, and test-driven development. Passionate about building high-quality, SEO-friendly React applications focused on user experience and long-term scalability.
+
+PERSONAL INFORMATION
+  Address: , North York, M2H2W1
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * Linkedin: https://www.linkedin.com/in/anushervon-rakhmatov/
+  * Github: https://github.com/afr741
+
+LANGUAGES
+  ★★★★★ English
+  ★★★★★ Russian
+
+SKILLS
+  HTML &amp; CSS
+  SCSS &amp; SASS
+  JavaScript
+  TypeScript
+  PHP
+  Go
+  Python
+  C#
+  C++
+  Ruby
+  Java
+  Solidity
+  Rust
+  React.js
+  React Native
+  Next.js
+  Vue.js
+  Nuxt.js
+  Angular
+  Remix
+  Svelte
+  Flutter
+  Gatsby
+  Tailwind CSS
+  Shadcn UI
+  MUI
+  AntD
+  Chakra UI
+  Nest.js
+  Node.js
+  Express.js
+  Gin
+  Django
+  .NET
+  ASP.NET
+  Ruby on Rails
+  Spring Boot
+  PostgreSQL
+  MySQL
+  MongoDB
+  Jest
+  Cypress
+  Ubuntu Server
+  Vercel
+  Netlify
+  Heroku
+  Git
+  Docker
+  JIRA
+  GraphQL
+  Apollo
+  RESTful APIs
+  AWS Lambda
+  Laravel
+  Wordpress
+  Shopify
+  Web3
+  Redis
+  Bubble.io
+  Xano
+
+WORK EXPERIENCE
+  * January 2024 – May 2025
+    Senior Front End Engineer | React Specialist at Loblaw Digital, Toronto
+      
+  Engineered and led the development of high-performance advertisement systems using Next.js and React, architecting scalable front-end solutions that seamlessly integrated with Spring Boot backends to manage complex e-commerce pricing and promotions.
+  Optimized RESTful API integrations and front-end data fetching using React Query and Axios, achieving a 30% improvement in response times and enhancing overall application responsiveness and user experience.
+  Implemented modular, reusable React components with effective state management using Redux Toolkit and Context API, improving maintainability and scalability across the platform.
+  Built and maintained CI/CD pipelines for React applications using GitLab and Jenkins, ensuring rapid, reliable deployments to Kubernetes environments with focus on front-end build optimization.
+  Provided technical leadership and mentorship, guiding junior engineers on best practices around React Hooks, Server-Side Rendering (SSR) with Next.js, performance optimization, accessibility (WCAG), and test-driven development using React Testing Library and Jest.
+  Documented component libraries and front-end patterns to support cross-team collaboration, promoting consistency and efficiency in UI development.
+
+
+  * February 2022 – December 2023
+    Senior Software Engineer at Paypal, Vancouver
+      
+  Led the migration of legacy components, implementing an updated design system that adhered to modern best practices, ensuring improved scalability and maintainability.
+  Managed component development using Storybook from end-to-end, ensuring precise documentation and alignment with design guidelines for seamless CMS deployment.
+  Successfully led a team of software engineers, driving a 30% increase in productivity and a 50% reduction in project delivery time through effective leadership and collaboration.
+  Spearheaded improvements in CI/CD processes, optimizing Jenkins and GitHub Actions workflows, which reduced build times, increased automation, and maintained high code quality across the software development lifecycle.
+  Architected scalable microservices on AWS, ensuring high-availability infrastructure and efficient service performance to meet demanding operational requirements.
+  Developed and enhanced unit and integration tests using test-driven development (TDD) and frameworks like Jest, Enzyme, and React Testing Library, improving UI components and optimizing code performance through Webpack and Babel.
+
+
+  * February 2020 – February 2022
+    Full Stack Developer at NGX Interactive, Vancouver
+      
+  Led a cross-functional team of designers, storytellers, and animators to deliver immersive applications for the National Air and Space Museum in Washington, DC, making key architectural decisions to ensure project success.
+  Designed and developed custom web applications featuring complex 3D graphics and data visualizations using the Three.js framework, delivering interactive, high-performance experiences.
+  Leveraged WebGL and related libraries to simulate real-world physics within web-based applications, enhancing realism and user engagement.
+  Built and maintained fully-specified RESTful APIs using Node.js, Express.js, and MySQL, ensuring efficient data communication between front-end and back-end systems.
+  Developed and enhanced unit and integration tests with Jest, Postman, and FAST API, and implemented comprehensive end-to-end UI testing with Cypress to ensure application quality and reliability.
+  Automated deployment and infrastructure provisioning by creating scripts with Terraform and Docker, streamlining the release process and improving system scalability.
+
+
+  * May 2019 – February 2020
+    Web Developer at Globalcot FZE, Dubai
+      
+  Redesigned and rebuilt the company website following modern web development best practices, significantly enhancing the online presence and improving SEO performance.
+  Scoped and structured projects meticulously, providing clear direction and ensuring alignment with business objectives throughout the development lifecycle.
+  Refactored and optimized legacy code, achieving an 80% improvement in usability and significantly boosting runtime performance by leveraging Webpack and Babel.
+  Enhanced data management with MongoDB and improved API performance, reducing query response times by 30% through effective testing and optimization with Postman.
+  Developed comprehensive end-to-end test scripts using Cypress and Mocha, ensuring robust, reliable, and high-quality software delivery.
+  Implemented system monitoring and performance tracking using CloudWatch, enabling proactive issue detection and maintaining application health and stability.
+
+
+  * September 2018 – September 2019
+    Unity Developer at Memorial University of Newfoundland, St. John&#39;s
+      
+  Collaborated with University IT Services to refine and enhance conceptual designs, ensuring alignment with project requirements and user experience goals.
+  Improved and modernized the codebase by modularizing and refactoring existing scripts, significantly enhancing readability, maintainability, and scalability.
+  Upgraded 3D training models within Unity, enhancing the realism and visual fidelity of simulated training environments.
+  Integrated Virtual Reality (VR) capabilities by configuring Oculus Gear, successfully delivering an immersive VR experience to enhance user engagement and training effectiveness.
+
+
+  * August 2018 – January 2019
+    Wordpress Developer at Memorial University of Newfoundland, St. John&#39;s
+      
+  Led the development of web pages for online courses and project-based resources, ensuring accurate content delivery and seamless user experience.
+  Implemented accessibility enhancements and SEO optimizations across WordPress sites, ensuring WCAG compliance and significantly improving search engine rankings, user engagement, and content discoverability.
+  Created interactive content using WordPress H5P, enhancing the quality, interactivity, and engagement level of course websites.
+  Reviewed and managed digital learning materials, capturing and organizing metadata within the Learning Object Repository (LOR) for efficient content management.
+  Defined and maintained XML standards for documents shared across web platforms, ensuring consistency and alignment with organizational requirements.
+
+
+
+EDUCATION
+  * May 2015 – April 2019
+    Memorial University of Newfoundland, St. John&#39;s Bachelor&#39;s Degree in Computer Science
+

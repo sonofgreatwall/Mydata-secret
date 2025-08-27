@@ -1,0 +1,10 @@
+US personal info
+First Name: Isiah
+Last Name: Smith
+State: MI
+Address: 5857 Inkster Rd Apt 206
+City: Garden City (Michigan)
+Zip Code: 48135
+Birthday: 11/30/1987
+SSN: 376049565
+DL: 5530344122913

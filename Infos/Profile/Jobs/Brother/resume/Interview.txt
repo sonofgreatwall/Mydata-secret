@@ -1,0 +1,69 @@
+Projects
+
+1. FlatWorld Solution - Learning Management System
+	- Built and maintained a Learning Management System (LMS) using React, TypeScript, Next.js, and Tailwind CSS on the frontend, combined with a Python/Django backend.
+	- Developed interactive user dashboards, assignment modules, and real-time progress tracking features tailored for students, instructors, and administrators.
+	- Designed and implemented RESTful and GraphQL APIs to support frontend requests, authentication flows, content delivery, and file management.
+	- Integrated an AI-powered course recommendation system using NLP to analyze user profiles and activity history, offering personalized learning paths.
+	- Added an automated feedback generator using LangChain and GPT-based LLMs that summarized and rated essay submissions with real-time insights.
+	- Used PostgreSQL and Redis for data storage and caching, optimizing query performance and user interaction responsiveness.
+	- Implemented test automation with Selenium, Jest, and Cypress, increasing code reliability and reducing manual QA efforts.
+	- Deployed application components using Docker and managed environments via Kubernetes and GitHub Actions for CI/CD workflows.
+	- Participated in daily standups, sprint planning, and code reviews in an Agile environment, working closely with designers, QA engineers, and backend developers.
+
+
+	At Flatworld Solutions, I worked on a Learning Management System where I handled both the frontend and backend. On the frontend, I used React, TypeScript, and Next.js to build dashboards, progress tracking, and assignment features. The backend was originally in Python and Django, and I helped build out REST and GraphQL APIs to support the app.
+
+	We also added AI features — one was a course recommendation engine using NLP that matched users to the best learning path. Another was a tool that used LangChain and GPT to automatically analyze and summarize student essay submissions. I used Docker and Kubernetes for deployment, and set up automated testing with Selenium, Cypress, and Jest. The whole project ran in an Agile environment, so I was regularly collaborating with designers and other developers during sprint cycles.
+
+2. DevCrew I/O
+	- Migrated a legacy backend system from C# (.NET) to Python, improving maintainability and reducing hosting costs.
+	- Refactored core business logic and API endpoints using Flask and Django, ensuring smooth transition while preserving functionality.
+	- Updated the outdated frontend built in jQuery and vanilla JavaScript by rebuilding it using React, TypeScript, and Tailwind CSS, closely following a new UI/UX design.
+	- Improved performance and responsiveness across all major views, ensuring cross-browser compatibility and mobile support.
+	- Wrote unit and integration tests for both backend (using Pytest) and frontend (using Jest and React Testing Library), improving code quality and test coverage.
+	- Set up automated deployment and CI workflows using GitHub Actions and Docker, improving deployment consistency and developer efficiency.
+	- Worked closely with designers and QA engineers in Agile sprints to deliver updates incrementally and address feedback quickly.
+
+
+	At DevCrew I/O, I worked on a project where I migrated a legacy backend from C# to Python using Flask and Django. I also updated the old frontend using React and Tailwind CSS to match the new design. On top of that, I added unit tests for both the backend and frontend, and set up CI pipelines with GitHub Actions and Docker. The updates made the project much easier to maintain and deploy.
+
+3. Appnovation Technologies
+	Yes, Appnovation Technologies operated with a startup mindset when I joined. I was involved in fast-paced projects, collaborating closely with small cross-functional teams. I contributed to building and optimizing frontend features using technologies like Vue.js and React, while also ensuring responsive design and smooth integration with backend APIs. The environment required adaptability, quick problem-solving, and delivering high-quality work under tight deadlines.
+
+
+4. WestRoadSouth Limited
+	At WestRoadSouth Limited, I worked as a frontend developer focusing on building responsive web pages using HTML, CSS, and JavaScript. Most of the projects were for e-commerce and CMS platforms. I made sure the designs were pixel-perfect and worked well across different browsers and devices. I also collaborated with designers and backend developers, helped debug issues, and followed best practices for code readability and reusability.
+
+
+
+Hi JC, thanks so much for reaching out—really excited to speak with you.
+
+I'm Kayky Aguiar, a Senior Full Stack Engineer with over 8 years of experience building scalable, high-performing web applications. I specialize in both frontend and backend development, working with modern technologies like React, Next.js, Node.js, Python.
+
+Throughout my career, I have successfully delivered complex projects across various domains, collaborating closely with cross-functional teams to ensure alignment with business objectives and user needs. I have a strong grasp of RESTful API development, database management, and version control systems, enabling me to build scalable and high-performing applications.
+My commitment to staying updated with the latest industry trends and technologies drives my passion for continuous learning and adopting best practices in software development.
+With a focus on clean code, performance optimization, and user experience, I strive to create applications that not only meet but exceed client expectations.
+
+In my most recent role at Flatworld Solutions, I developed a Learning Management System using React, Next.js, and Django, and integrated AI services into the platform to enhance personalization and content delivery. One example was an AI-powered course recommendation system using LangChain and Pinecone, which helped suggest the best learning paths based on user behavior and preferences. I also built and maintained REST and GraphQL APIs, and deployed containerized services with Docker and Kubernetes.
+
+The contract with this company was ended last month since our project had been finished successfully and at the same time, contract period fulfilled.
+
+Question
+	1. Do you speak portugese?
+		I am not familiar portugese.
+		I was born in Brazil.
+		When I was 3 years old, I went to Canada with my family.
+		My father was an interpreter.
+		So, I went to school there and got a job at a company.
+		Two years ago, my father passed away, and my mother and I decided to return to Colombia.
+		This was my father's wish.
+		I am a little unfamiliar with this place, and I have some difficulties with the language.
+		But I am very happy to be with people who truly care for me.
+		I will try to learn Spanish in the future to communicate more easily.
+
+	2. What is your weakness?
+		One of my weaknesses is that I tend to be less social in personal settings. I often prefer to focus on tasks and work independently. However, I recognize the importance of collaboration and communication, so I’m actively working on becoming more engaged in social situations. I’ve been making an effort to participate in group activities and connect with colleagues, which has helped me improve in this area.
+
+	3. Do you have an experience to work with US client?
+		Yes, my last company was a U.S.-based company, so I regularly communicated with U.S. clients during projects. I was involved in client meetings, gathering requirements, and providing updates throughout the development process. This helped me build strong communication and collaboration skills across time zones.
