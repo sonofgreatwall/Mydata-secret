@@ -1,0 +1,14 @@
+Serra, Espirito Santo, Brazil
+Ontario tech university
+1995.06.01
+
+
+Hi, my name is Kayk. I’m a Senior Frontend Developer with a little over eight years of experience in web development. Over that time, I’ve worked across the full stack, but my main focus has always been front-end engineering and building applications that are both scalable and user-friendly.
+
+I specialize in modern front-end technologies like React, Vue, and Angular, and I’m also experienced with TypeScript, Next.js, Nuxt, and styling frameworks such as TailwindCSS, Material UI, and Vuetify. On the back end, I’ve integrated RESTful and GraphQL APIs, configured Docker environments, and set up efficient CI/CD pipelines, which allows me to deliver reliable applications end to end.
+
+One of my strengths is designing clean, reusable component libraries and front-end architectures that can scale as products grow. I’ve also built applications that handle high volumes of requests while maintaining strong performance, and I regularly use testing frameworks like Jest, Cypress, and Playwright to ensure code quality and a seamless user experience.
+
+Beyond coding, I enjoy working closely with designers and product teams to translate ideas into functional interfaces
+
+I’m very passionate about creating responsive, intuitive interfaces, staying on top of new tools and frameworks, and continuously improving performance and usability. Right now, I’m looking to bring my experience into a senior role where I can contribute to building high-quality products, help teams move faster, and deliver impactful solutions for users.

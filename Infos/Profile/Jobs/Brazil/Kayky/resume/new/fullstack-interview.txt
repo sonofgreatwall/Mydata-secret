@@ -1,0 +1,102 @@
+birthday 1995.06.01
+Serra, Espirito Santo, Brazil
+
+
+Kayky Aguiar
+Senior Fullstack Developer
++55 27988231094  |  somostodoskayky@gmail.com  |  www.linkedin.com/in/kayky-aguiar
+Address: Rua Mariano Souza Ramos, Apt 510, Bloco 10, Serra, Espírito Santo, 29161-005, Brazil
+
+SUMMARY	
+Ambitious full-stack developer with over 8 years of experience in web development, Front End Web engineering, and artificial intelligence. Skilled in building scalable web applications end-to-end, with expertise in front end languages such as React, Vue, Angular, HTML, CSS, and JavaScript, as well as backend development using modern programming languages including Node.js, Python, Java, and C#.
+Experienced in leading UI/UX improvements, applying strong project management skills, collaborating within Agile teams, mentoring junior developers, and consistently delivering high-quality products on schedule. With a strong background in integrating AI solutions to solve complex, real-world problems efficiently, I continuously focus on performance optimization, best practices, and staying up to date with the latest tools and trends.
+Currently focused on growing as a senior freelancer, with the goal of becoming a top-rated talent on this and other freelancing platforms by delivering impactful solutions and exceptional user experiences.
+
+SKILLS	
+
+•Python
+•Django
+•FastAPI
+•NodeJS
+•NestJS
+•ExpressJS
+•C#
+•.NET
+•NestJS
+•ExpressJS
+•C#
+•.NET
+•PostgreSQL
+•MySQL
+•MongoDB
+•Redis
+•ElasticSearch
+•AWS
+•Azure
+•GCP
+•Microservices
+•React
+•Vue
+•Angular
+•Javascript
+•Typscript
+•NextJS
+•NuxtJS
+
+EXPERIENCE	
+
+Senior Full Stack Engineer
+Avantsoft. Inc
+ 05/2024 - 05/2025 	 San Jose, US
+•Collaborated closely with designers, using organizational skills to create responsive, visually appealing, and user-friendly interfaces with TailwindCSS, Material-UI, and custom styling for consistent UX across React and Vue 3 applications.
+•Built a React-based web application with a robust web architecture to manage server resources, including login, a central dashboard, resource tree navigation, advanced search, and dynamic data visualizations.
+•Developed reusable React components and hooks with TypeScript, leveraging context and Redux for scalable state management.
+•Created Vue 3 components and Nuxt 3 modules for dashboards, interactive reports, and dynamic pages, improving modularity, maintainability, and cross-platform consistency.
+•Implemented server-side rendering (SSR), lazy loading, and optimized state management in Vue 3 / Nuxt 3 and React applications to enhance performance and UX.
+•Designed and implemented scalable enterprise-level web applications while integrating complex backend systems with Python, Django, Node.js, and Express.
+•Engineered GraphQL and RESTful APIs to streamline communication between frontend and backend services, optimizing data flow and reducing API call redundancies.
+•Implemented authentication, role-based access control, and resource management APIs to ensure secure and scalable backend operations.
+•Optimized database performance using PostgreSQL and Redis caching, and built scalable data systems using PostgreSQL, MongoDB, and Firebase, applying indexing, partitioning, and caching techniques for high-volume requests.
+
+Full Stack Engineer
+NGX Interactive 
+ 04/2022 - 05/2024 	 Vancouver, Canada
+•Developed the front-end for an admin UI using React, Angular, TypeScript, and TailwindCSS, delivering a responsive, user-friendly interface for a healthcare platform.
+•Designed and built reusable React and Angular components and front-end services in TypeScript to support dashboards, appointment scheduling/booking, payments, administration, and subscriptions.
+•Engineered high-performance front-end applications with React and Angular 18, capable of handling 200+ requests per second, ensuring scalability and stability under heavy load.
+•Created an abstract front-end architecture in React and TypeScript, enabling seamless integration with multiple REST API schemas and third-party providers.
+•Applied verbal communication skills to collaborate with designers, enhancing UX and testing front-end components with Jest, Mocha, and TypeScript.
+•Built backend services with Node.js, Express, and .NET, including REST APIs for authentication, payment processing, and subscription management, reducing response latency by 30%.
+•Developed Django-based backend modules for healthcare workflows, with strong attention to detail, integrating appointment scheduling, patient data management, and third-party APIs.
+•Engineered GraphQL and RESTful APIs, optimized database queries, and implemented caching strategies (PostgreSQL, MongoDB, Redis) to improve system performance and handle high-volume traffic.
+•Implemented CI/CD pipelines and Docker-based deployments to automate builds, testing, and deployment across development and production environments.
+•Applied Agile methodology with Jira to deliver the MVP within 3 months, actively participating in client meetings to gather requirements and refine UI/UX interactions, ensuring alignment with business goals.
+
+Full Stack Developer
+Loblaw Digital
+ 04/2020 - 03/2022        Toronto, Canada
+•Converted a traditional web application into a React-based single-page application (SPA) and an Angular application, implementing state management to ensure seamless navigation and improved performance.
+•Maintained and enhanced existing front-end features across multiple projects, applying React and Angular best practices to ensure long-term usability, scalability, and stability.
+•Designed and developed RESTful APIs and serverless functions using Node.js and .NET, hosted on Google Cloud Platform (GCP) for efficient backend communication and seamless deployment.
+•Implemented secure authentication and authorization layers using Firebase Auth, OAuth providers, and .NET Identity, enhancing user management and security.
+•Collaborated closely with designers to improve UX/UI, utilizing Tailwind CSS, Material-UI, and Angular Material to create responsive, visually appealing interfaces.
+•Developed unit and integration tests with Jest, Mocha, and Angular Testing Utilities to ensure code reliability and thorough validation.
+•Managed version control using Git and utilized Docker to streamline development processes, providing a containerized environment for both development and deployment.
+•Implemented CI/CD pipelines for automated builds, testing, and deployment, ensuring consistent delivery across React, Angular, Node.js, and .NET applications.
+
+Full Stack Developer
+Globalcot FZE
+ 06/2017 - 03/2020	         Dubai, UAE
+•Designed and developed modern websites on the WordPress platform, tailored specifically for commercial clients, ensuring both aesthetic appeal and functionality.
+•Created custom WordPress themes and plugins, providing unique solutions for business clients and individual users, enhancing user experience and site performance.
+•Developed fullstack solutions using Node.js, Python, and .NET, creating RESTful APIs and backend services to handle complex business logic and data management.
+•Customized and extended Shopify stores with Liquid, JavaScript, and backend APIs to implement tailored e-commerce functionality for clients.
+•Optimized on-site SEO for commercial clients, significantly improving search engine rankings and increasing organic traffic.
+•Collaborated closely with graphic designers, using excellent verbal communication to produce visually compelling designs for both web and print, ensuring brand consistency across all platforms.
+•Developed custom code to modify and enhance the behavior of shopping cart systems, improving the overall user experience and increasing conversion rates.
+•Implemented automated testing and CI pipelines for WordPress, Angular, Shopify, and backend applications to ensure consistent quality and faster releases.
+
+EDUCATION	
+Bachelor of Computer Science
+Ontario Tech University
+ 03/2013 - 12/2017

@@ -1,0 +1,109 @@
+birthday 1995.06.01
+Serra, Espirito Santo, Brazil
+
+Kayky Aguiar
+Senior Front End Developer
++55 27988231094  |  somostodoskayky@gmail.com  |  www.linkedin.com/in/kayky-aguiar
+Address: Rua Mariano Souza Ramos, Apt 510, Bloco 10, Serra, Espírito Santo, 29161-005, Brazil
+
+SUMMARY	
+Ambitious Front End Developer with over 8 years of experience in web development, front-end engineering, and artificial intelligence. Skilled in building scalable web applications using technologies such as React, Vue, Angular, HTML, CSS, and JavaScript. Experienced in creating responsive, user-friendly interfaces and turning design concepts into clean, maintainable code while consistently delivering high-quality products on schedule.
+Proficient in leading UI/UX improvements, mentoring junior developers, and collaborating within Agile teams. Possesses excellent verbal communication and interpersonal skills, enabling effective teamwork and clear communication with clients. Adept at problem-solving and finding efficient solutions to complex challenges under tight deadlines.
+Strong background in integrating AI solutions to address real-world problems. Continuously focused on optimizing performance, following best practices, and staying current with the latest tools and trends. Currently working to grow as a senior freelancer, aiming to become a top-rated talent on freelancing platforms by delivering impactful solutions and exceptional user experiences.
+
+EDUCATION	
+Bachelor of Computer Science
+Ontario Tech University
+ 03/2013 - 12/2017
+
+
+SKILLS	
+
+•React           +8yrs
+•Vue              +6yrs
+•Angular        +8yrs
+•Next             +4yrs
+•Nuxt             +4yrs
+•Shopify         +4yrs
+•JavaScript    +8yrs
+•TypeScript   +6yrs
+•Bootstrap     +8yrs
+•MaterialUI   +4yrs
+•Tailwind       +4yrs
+•AntDesign    +6yrs
+•Wordpress   +8yrs
+•RxJS            +4yrs
+•Redux          +6yrs
+•Vuex            +6yrs
+•PWA            +3yrs
+•HTML          +8yrs
+•CSS            +8yrs
+•SCSS          +8yrs
+•Jest              +6yrs
+•Cypress        +4yrs
+•GraphQL      +6yrs
+•Vuetify          +4yrs
+•Jest             +4yrs
+•Shopify        +8yrs
+•Git                +8yrs
+•Laravel         +8yrs
+•UX/UI           +8yrs
+•Web Design +8yrs
+•Jquery          +8yrs
+•SEO             +8yrs
+
+
+EXPERIENCE	
+
+Senior Front End Engineer
+Avantsoft. Inc
+ 05/2024 - 05/2025 	 San Jose, US
+•Built a React web app to manage server resources, including login, dashboard, navigation, search, and dynamic charts, ensuring a seamless SPA experience.
+•Created reusable React components and hooks, applied TypeScript, and implemented context/Redux state management for maintainable and type-safe code.
+•Applied role-based access control, caching, and real-time data integration to ensure secure, high-performance, personalized interactions.
+•Created animated savings charts and interactive UI elements, increasing user engagement by 25% and enabling faster, informed stakeholder decisions.
+•Configured Docker containers for development and production, cutting environment inconsistencies by 90% and simplifying team onboarding.	
+•Developed reusable Vue 3 components and Nuxt 3 modules for dashboards, interactive reports, and dynamic pages, leveraging TypeScript for maintainability and scalability.
+•Optimized Vue 3 applications with lazy loading, code splitting, server-side rendering, and efficient state management using Vuex or Pinia to handle high user load.
+•Migrated selected legacy UI parts into Nuxt 3, improving maintainability, accelerating feature delivery, and ensuring a consistent cross-platform experience.
+•Collaborated with designers to implement responsive, user-friendly interfaces, conducted unit and integration testing for both React and Vue components, and ensured code quality and reliability.
+
+Front End Engineer
+NGX Interactive 
+ 04/2022 - 05/2024 	 Vancouver, Canada
+•Engineered the healthcare admin front-end with Angular, React, TypeScript, and TailwindCSS, cutting page load times by 35% and improving workflow efficiency.
+•Built reusable Angular and React components for dashboards, scheduling, payments, and subscriptions, boosting development speed by 40% while maintaining consistency.
+•Developed high-performance front-end applications handling 200+ requests per second, ensuring smooth interactions under peak load and applying problem solving skills to optimize performance.
+•Created an abstract front-end architecture using Angular, React, and TypeScript, designed to integrate with various REST API schemas and third-party providers.
+•Implemented Angular modules, React hooks, directives, and pipes to improve code reusability and maintainability across the application.
+•Leveraged RxJS and React state management for reactive programming to efficiently handle asynchronous data streams and state.
+•Collaborated closely with designers to enhance UX/UI and maintain visual and functional consistency, demonstrating excellent verbal communication skills to align cross-functional teams.
+•Conducted unit testing for Angular components with Jasmine/Karma and React components with Jest, ensuring high reliability and code quality.
+•Applied Agile methodology using Jira to deliver the minimum viable product (MVP) within three months.
+•Participated in client meetings to gather requirements and refine UI/UX interactions, ensuring alignment with project goals.
+
+Front End Engineer
+Loblaw Digital
+ 04/2020 - 03/2022 	 Toronto, Canada
+•Converted a traditional web app into a React and Vue SPA with JavaScript state management, enabling seamless navigation and better performance.
+•Maintained and enhanced existing front-end features across multiple projects, applying React and Vue best practices to ensure long-term usability, scalability, and stability.
+•Created RESTful APIs and serverless functions on Google Cloud Platform (GCP), reducing backend response times by 25% and enabling smooth front-end communication.
+•Implemented secure authentication and authorization layers using Firebase Auth and various OAuth providers to enhance user management and security.
+•Collaborated closely with designers to improve the overall UX/UI, utilizing Tailwind CSS and Material-UI to create responsive, visually appealing interfaces.
+•Developed unit and integration tests with Jest to ensure code reliability, thorough validation, and ease of future maintenance.
+•Managed version control using Git and utilized Docker to streamline development processes, providing a containerized environment for both development and deployment.
+•Optimized front-end performance by implementing lazy loading, code splitting, and efficient state management for high-traffic pages.
+•Built reusable Vue components to improve modularity, maintainability, and accelerate future feature development.
+
+Front End Developer
+Globalcot FZE
+ 06/2017 - 03/2020 	 Dubai, UAE
+•Designed and developed modern websites on the WordPress platform, tailored specifically for commercial clients, ensuring both aesthetic appeal and functionality.
+•Created custom WordPress themes and plugins, providing unique solutions for business clients and individual users, enhancing user experience and site performance.
+•Built dynamic Angular applications for dashboards, forms, and admin interfaces, increasing responsiveness and interactivity for end-users by 20%.
+•Developed Shopify-based e-commerce stores, customizing themes and integrating APIs to implement tailored shopping experiences for clients.
+•Collaborated closely with graphic designers to produce visually compelling designs for both web and print, ensuring brand consistency across all platforms.
+•Developed custom code to modify and enhance the behavior of shopping cart systems, improving the overall user experience and increasing conversion rates.
+•Implemented responsive layouts and modern styling using Tailwind CSS, Angular Material, and custom CSS, enhancing user experience across devices.
+•Optimized front-end performance, including lazy loading, modular component design, and efficient state management for Angular and Shopify projects.
+
